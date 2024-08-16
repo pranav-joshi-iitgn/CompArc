@@ -1,0 +1,63 @@
+Integers
+
+N = 64
+cpu	1621021e-9 s
+real	0m0.003s
+user	0m0.003s
+sys	0m0.001s
+
+N = 128
+cpu	89e-4 s
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+
+N = 256
+cpu	77e-3 s
+real	0m0.079s
+user	0m0.079s
+sys	0m0.000s
+
+N = 512
+cpu	578e-3 s
+real	0m0.579s
+user	0m0.574s
+sys	0m0.004s
+
+N = 1024
+cpu	4909e-3 s
+real	0m4.911s
+user	0m4.894s
+sys	0m0.012s
+
+Doubles
+
+N = 64
+cpu	1126323e-9 s
+real	0m0.003s
+user	0m0.001s
+sys	0m0.002s
+
+N = 128
+cpu	11944e-6 s
+real	0m0.014s
+user	0m0.011s
+sys	0m0.003s
+
+N = 256
+cpu	81e-3 s
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
+
+N = 512
+cpu	597e-3 s
+real	0m0.598s
+user	0m0.594s
+sys	0m0.004s
+
+N = 1024
+cpu	5562e-3 s
+real	0m5.565s
+user	0m5.553s
+sys	0m0.012s

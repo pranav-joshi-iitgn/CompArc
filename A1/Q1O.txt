@@ -1,0 +1,4 @@
+Recursion         : Time = 218 s
+Loop              : Time = 5 ms
+Recur. with memo. : Time = 3 ms
+Loop with memo.   : Time = 1342985 ns

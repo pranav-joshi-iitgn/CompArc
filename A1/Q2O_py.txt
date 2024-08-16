@@ -1,0 +1,63 @@
+Integers
+
+N = 64
+cpu_time = 120058371 ns
+real	0m0.161s
+user	0m0.155s
+sys	0m0.004s
+
+N = 128
+cpu_time = 908691639 ns
+real	0m0.949s
+user	0m0.930s
+sys	0m0.013s
+
+N = 256
+cpu_time = 7291797284 ns
+real	0m7.337s
+user	0m7.279s
+sys	0m0.024s
+
+N = 512
+cpu_time = 53320719833 ns
+real	0m53.412s
+user	0m53.153s
+sys	0m0.073s
+
+N = 1024
+cpu_time = 415752594392 ns
+real	6m55.970s
+user	6m52.336s
+sys	0m0.252s
+
+Floats
+
+N = 64
+cpu_time = 68849907 ns
+real	0m0.095s
+user	0m0.091s
+sys	0m0.004s
+
+N = 128
+cpu_time = 770499453 ns
+real	0m0.832s
+user	0m0.813s
+sys	0m0.020s
+
+N = 256
+cpu_time = 6401190748 ns
+real	0m6.476s
+user	0m6.449s
+sys	0m0.016s
+
+N = 512
+cpu_time = 44882045281 ns
+real	0m45.067s
+user	0m44.939s
+sys	0m0.056s
+
+N = 1024
+cpu_time = 341909757508 ns
+real	5m42.339s
+user	5m41.442s
+sys	0m0.172s
